@@ -1,16 +1,22 @@
-## Hi there 👋
+## 👋 ¡Hola! Soy Alex
 
-<!--
-**alexvinola/alexvinola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧑‍💻 Desarrollador Full Stack con experiencia en:
 
-Here are some ideas to get you started:
+- 🧱 Backend: C#, .NET, ASP.NET Core, Entity Framework, Dapper
+- 🖥️ Frontend: Angular, TypeScript, HTML, SCSS, React
+- 💾 Bases de datos: SQL Server, MongoDB
+- ☁️ Cloud & DevOps: Azure, Docker, GitLab CI/CD, GitHub Actions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Aprendiendo y experimentando con:
+
+- 🧠 Kubernetes y Docker
+- 🌐 GraphQL con Hot Chocolate en .NET 9
+- 🧬 Arquitectura de microservicios y .NET Aspire asi como Python
+
+🤝 Buscando colaborar en proyectos innovadores donde pueda aportar mi experiencia y seguir creciendo como desarrollador.
+
+📫 Puedes contactarme o saber más en [LinkedIn](https://www.linkedin.com/in/alejandrovinola/).
+
+---
+
+<!--⭐ Revisa mis repositorios para ver en qué estoy trabajando.-->
