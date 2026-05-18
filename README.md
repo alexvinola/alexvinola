@@ -1,66 +1,69 @@
 # Hi there 👋
 
-My name is Alex, and I’m a Full Stack Developer from Zaragoza, Spain.
+My name is Alex, and I'm a Full Stack Developer from Zaragoza, Spain.
 
 I have been passionate about programming since I was around 15–16 years old. What started as curiosity quickly became a real vocation, and since then I have been constantly learning, building projects, and growing as a developer.
 
-Over the years, I have combined my studies with professional experience, which has allowed me to grow both technically and personally in real-world environments. I have worked on web, mobile, and backend development, always with a strong interest in building clean, scalable, and maintainable solutions.
-
 I currently work mainly with **.NET and Angular**, developing backend services, REST APIs, frontend features, integrations, and microservices-oriented solutions. I also enjoy working with modern architectures, cloud technologies, CI/CD pipelines, and tools that help improve software quality and development workflows.
 
-In addition to my Full Stack work, I am also involved in **AI Research and GenAI-related initiatives**, especially around **LLMs, agent orchestration, AI evaluation frameworks, reusable skills, workflow automation, and Python-based productivity tools**. Beyond my professional work, I also explore these topics on my own, learning more about **Transformers, Hugging Face, LLM evaluation, prompt engineering, and practical AI-assisted development**.
+In addition to my Full Stack work, I am also involved in **AI Research and GenAI-related initiatives**, especially around **LLMs, agent orchestration, AI evaluation frameworks, reusable skills, workflow automation, and Python-based productivity tools**. On my own time I go deeper into Transformers, Hugging Face, LLM evaluation, prompt engineering, and practical AI-assisted development.
 
-I enjoy learning beyond my day-to-day work, especially in areas like **microservices, Kubernetes, Python, React, GraphQL, cloud-native development, and applied AI**.
+---
 
-## What have I been involved with?
+## 🛠 Stack
 
-- C#
-- .NET
-- ASP.NET Core
-- Entity Framework
-- Dapper
-- Angular
-- TypeScript
-- HTML
-- SCSS
-- React
-- SQL Server
-- MongoDB
-- Azure
-- Docker
-- GitLab CI/CD
-- GitHub Actions
-- GraphQL
-- Python
-- Kubernetes
-- GenAI
-- LLMs
-- AI Agents
-- Evaluation Frameworks
-- Hugging Face
-- Transformers
+**Backend & APIs**
 
-## A bit more about me
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Dapper](https://img.shields.io/badge/Dapper-0078D4?style=flat-square)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**Frontend**
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
+
+**AI & GenAI**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-7C3AED?style=flat-square)
+![AI Agents](https://img.shields.io/badge/AI_Agents-7C3AED?style=flat-square)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Eval Frameworks](https://img.shields.io/badge/Eval_Frameworks-7C3AED?style=flat-square)
+
+**Infra & DevOps**
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+---
+
+## 🧭 A bit more about me
 
 - 💼 Full Stack Engineer with professional experience in web, backend, and mobile development
 - 🧱 Interested in clean architecture, scalable systems, microservices, and maintainable codebases
-- ☁️ Comfortable working with cloud, DevOps-related tools, CI/CD, and collaborative development workflows
+- ☁️ Comfortable with cloud, DevOps tools, CI/CD, and collaborative development workflows
 - 🤖 Exploring AI-assisted development, LLMs, agent-based workflows, and GenAI tools
-- 📊 Interested in AI evaluation frameworks and measuring the quality, reliability, and usefulness of AI systems
-- 🚀 Always learning and experimenting with new technologies
+- 📊 Interested in AI evaluation frameworks and measuring quality, reliability, and usefulness of AI systems
+- 🚀 Always learning — currently diving into Hexagonal & Clean Architecture, Python ecosystems, and LLM evals
 - 🤝 Open to collaborating on interesting, innovative, and technically challenging projects
 
-## Currently exploring
+---
 
-- Multiple architectures: Hexagonal, Clean Architecture, Layered Architecture, Microservices
-- Python and modern backend ecosystems
-- LLMs and AI agents
-- Transformers and Hugging Face
-- GenAI workflows and automation
-- Evaluation frameworks for AI systems
+## 📬 Contact
 
-## Contact
-
-- LinkedIn: [Alejandro Viñola](https://www.linkedin.com/in/alejandrovinola/)
-- Portfolio: [Portfolio](https://alexvinola.com)
-- Email: hello@alexvinola.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-alejandrovinola-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandrovinola/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-alexvinola.com-111827?style=flat-square&logo=firefoxbrowser&logoColor=white)](https://alexvinola.com)
+[![Email](https://img.shields.io/badge/Email-hello@alexvinola.com-1D6FBF?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@alexvinola.com)
