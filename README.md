@@ -1,16 +1,31 @@
-# Hi there 👋
+### 👋 Hi, I'm Alex Viñola
 
-My name is Alex, and I'm a Full Stack Developer from Zaragoza, Spain.
+**Full Stack Developer** | **AI & GenAI Enthusiast** | **Aspiring Architect & Tech Lead**
 
-I have been passionate about programming since I was around 15–16 years old. What started as curiosity quickly became a real vocation, and since then I have been constantly learning, building projects, and growing as a developer.
+📍 Zaragoza, Spain
 
-I currently work mainly with **.NET and Angular**, developing backend services, REST APIs, frontend features, integrations, and microservices-oriented solutions. I also enjoy working with modern architectures, cloud technologies, CI/CD pipelines, and tools that help improve software quality and development workflows.
-
-In addition to my Full Stack work, I am also involved in **AI Research and GenAI-related initiatives**, especially around **LLMs, agent orchestration, AI evaluation frameworks, reusable skills, workflow automation, and Python-based productivity tools**. On my own time I go deeper into Transformers, Hugging Face, LLM evaluation, prompt engineering, and practical AI-assisted development.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandrovinola/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://alexvinola.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@alexvinola.com)
 
 ---
 
-## 🛠 Stack
+## 👨‍💻 About Me
+
+I've been passionate about programming since I was 15, and what started as curiosity quickly turned into a real vocation. Since then I've combined studies with professional experience, working on web, mobile, and backend projects in real-world environments.
+
+I currently work mainly with **.NET and Angular**, building backend services, REST APIs, frontend features, and microservices-oriented solutions. On top of that, I'm involved in **AI Research and GenAI initiatives** — LLMs, agent orchestration, evaluation frameworks, and Python-based automation — and I keep exploring these topics on my own time too.
+
+**Key highlights:**
+
+- 🔧 **Full Stack** — Production experience across backend, frontend, and mobile, always focused on clean and scalable solutions
+- 🤖 **AI & GenAI** — Working with LLMs, AI agents, evaluation frameworks, Hugging Face, and prompt engineering
+- 🧱 **Architecture-minded** — Strong interest in clean architecture, microservices, and building systems that last
+- 🚀 **Goal** — Keep growing as a developer while moving towards system design, architecture, and eventually technical leadership
+
+---
+
+## 🛠️ Tech Stack
 
 **Backend & APIs**
 
@@ -50,20 +65,10 @@ In addition to my Full Stack work, I am also involved in **AI Research and GenAI
 
 ---
 
-## 🧭 A bit more about me
+## 📊 Contribution Activity
 
-- 💼 Full Stack Engineer with professional experience in web, backend, and mobile development
-- 🧱 Interested in clean architecture, scalable systems, microservices, and maintainable codebases
-- ☁️ Comfortable with cloud, DevOps tools, CI/CD, and collaborative development workflows
-- 🤖 Exploring AI-assisted development, LLMs, agent-based workflows, and GenAI tools
-- 📊 Interested in AI evaluation frameworks and measuring quality, reliability, and usefulness of AI systems
-- 🚀 Always learning — currently diving into Hexagonal & Clean Architecture, Python ecosystems, and LLM evals
-- 🤝 Open to collaborating on interesting, innovative, and technically challenging projects
+![Contributions](https://ghchart.rshah.org/alexvinola)
 
 ---
 
-## 📬 Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-alejandrovinola-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandrovinola/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-alexvinola.com-111827?style=flat-square&logo=firefoxbrowser&logoColor=white)](https://alexvinola.com)
-[![Email](https://img.shields.io/badge/Email-hello@alexvinola.com-1D6FBF?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@alexvinola.com)
+⭐ *Always building, always learning — feel free to reach out!* ⭐
